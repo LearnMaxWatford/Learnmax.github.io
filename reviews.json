@@ -1,44 +1,38 @@
 [
   {
-    "name": "Aisha Khan",
+    "name": "Bimal Rajappan",
     "rating": 5,
     "comment": "Amazing instructor! Passed first time. Very calm and patient throughout.",
     "image": "IMG1.jpg"
   },
   {
-    "name": "James Patel",
+    "name": "Sherin Zia",
     "rating": 5,
     "comment": "Excellent teaching style. Helped me build confidence quickly in both manual and automatic driving.",
     "image": "IMG2.jpg"
   },
   {
-    "name": "Sophie Williams",
+    "name": "Devika Shaker",
     "rating": 5,
     "comment": "Friendly and professional. Lessons were structured perfectly for my learning pace.",
     "image": "IMG3.jpg"
   },
   {
-    "name": "Rahul Mehta",
+    "name": "Nicolas Nanayakkra",
     "rating": 5,
     "comment": "Highly recommend! Clear instructions and great knowledge of test routes in Watford.",
     "image": "IMG4.jpg"
   },
   {
-    "name": "Emily Carter",
+    "name": "Chinthaka",
     "rating": 5,
     "comment": "I was very nervous at first, but the lessons made me feel completely comfortable and confident.",
     "image": "IMG5.jpg"
   },
   {
-    "name": "Daniel Singh",
+    "name": "Merriam",
     "rating": 5,
     "comment": "Great experience. Flexible scheduling and very supportive instructor.",
     "image": "IMG6.jpg"
-  },
-  {
-    "name": "Olivia Brown",
-    "rating": 5,
-    "comment": "Professional and reliable. Helped me pass my test with ease. Thank you!",
-    "image": "IMG7.jpg"
   }
 ]
